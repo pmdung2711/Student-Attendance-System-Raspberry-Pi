@@ -1,1 +1,5 @@
-Place your training datas
+Place your training dataset here
+
+# Folder Structure
+
+
